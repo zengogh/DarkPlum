@@ -1,0 +1,10 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" version="1.1" xml:space="preserve">
+ <g>
+  <title>gogh</title>
+  <g id="blog">
+   <polygon id="svg_1" fill="#802B7A" points="127.16,0.06 238.01,64.06 238.01,192.06 127.16,256.06 16.31,192.06 16.31,64.06 " class="fil0"/>
+   <path id="svg_2" fill="#FEFEFE" d="m129,25.62l21.19,12.23l-90.57,52.29l0,75.85l69.38,40.06l0,24.46l-90.56,-52.29l0,-100.31l90.56,-52.29zm21.19,168.19l44.5,-29.95l0,-75.85l-21.26,-12.28l-32.85,18.96l-21.18,-12.23l54.03,-31.2l42.45,24.52l0,100.31l-65.69,42.19l0,-24.47z" class="fil1"/>
+  </g>
+ </g>
+
+</svg>
